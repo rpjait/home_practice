@@ -4,3 +4,4 @@ edited in new branch,
 not changing the mac address as it shutdown my phones adaptor
 
 
+sudo snap install microk8s --classic --channel=1.17/stable
